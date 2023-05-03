@@ -1,2 +1,2 @@
-# ndmctsgh_py
-ndmctsgh_py
+# Python 語言基礎課程
+Python 語言基礎課程
